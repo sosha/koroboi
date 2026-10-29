@@ -1,0 +1,49 @@
+{
+  "id": "gad7",
+  "title": "Generalized Anxiety Disorder 7-item (GAD-7)",
+  "language": "en",
+  "instruction": "Over the last 2 weeks, how often have you been bothered by the following problems?",
+  "options": [
+    { "value": 0, "label": "Not at all" },
+    { "value": 1, "label": "Several days" },
+    { "value": 2, "label": "More than half the days" },
+    { "value": 3, "label": "Nearly every day" }
+  ],
+  "questions": [
+    {
+      "id": "gad7_1",
+      "number": 1,
+      "text": "Feeling nervous, anxious or on edge"
+    },
+    {
+      "id": "gad7_2",
+      "number": 2,
+      "text": "Not being able to stop or control worrying"
+    },
+    {
+      "id": "gad7_3",
+      "number": 3,
+      "text": "Worrying too much about different things"
+    },
+    {
+      "id": "gad7_4",
+      "number": 4,
+      "text": "Trouble relaxing"
+    },
+    {
+      "id": "gad7_5",
+      "number": 5,
+      "text": "Being so restless that it is hard to sit still"
+    },
+    {
+      "id": "gad7_6",
+      "number": 6,
+      "text": "Becoming easily annoyed or irritable"
+    },
+    {
+      "id": "gad7_7",
+      "number": 7,
+      "text": "Feeling afraid as if something awful might happen"
+    }
+  ]
+}

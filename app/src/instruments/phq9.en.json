@@ -1,0 +1,59 @@
+{
+  "id": "phq9",
+  "title": "Patient Health Questionnaire (PHQ-9)",
+  "language": "en",
+  "instruction": "Over the last 2 weeks, how often have you been bothered by any of the following problems?",
+  "options": [
+    { "value": 0, "label": "Not at all" },
+    { "value": 1, "label": "Several days" },
+    { "value": 2, "label": "More than half the days" },
+    { "value": 3, "label": "Nearly every day" }
+  ],
+  "questions": [
+    {
+      "id": "phq9_1",
+      "number": 1,
+      "text": "Little interest or pleasure in doing things"
+    },
+    {
+      "id": "phq9_2",
+      "number": 2,
+      "text": "Feeling down, depressed, or hopeless"
+    },
+    {
+      "id": "phq9_3",
+      "number": 3,
+      "text": "Trouble falling or staying asleep, or sleeping too much"
+    },
+    {
+      "id": "phq9_4",
+      "number": 4,
+      "text": "Feeling tired or having little energy"
+    },
+    {
+      "id": "phq9_5",
+      "number": 5,
+      "text": "Poor appetite or overeating"
+    },
+    {
+      "id": "phq9_6",
+      "number": 6,
+      "text": "Feeling bad about yourself — or that you are a failure or have let yourself or your family down"
+    },
+    {
+      "id": "phq9_7",
+      "number": 7,
+      "text": "Trouble concentrating on things, such as reading or school work"
+    },
+    {
+      "id": "phq9_8",
+      "number": 8,
+      "text": "Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual"
+    },
+    {
+      "id": "phq9_9",
+      "number": 9,
+      "text": "Thoughts that you would be better off dead or of hurting yourself in some way"
+    }
+  ]
+}

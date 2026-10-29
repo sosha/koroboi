@@ -1,0 +1,21 @@
+{
+  "id": "gad7",
+  "title": "Katatopia cha Wasiwasi (GAD-7)",
+  "language": "sw",
+  "instruction": "TODO: Kiswahili adolescent adaptation pending validation.",
+  "options": [
+    { "value": 0, "label": "TODO: Not at all" },
+    { "value": 1, "label": "TODO: Several days" },
+    { "value": 2, "label": "TODO: More than half the days" },
+    { "value": 3, "label": "TODO: Nearly every day" }
+  ],
+  "questions": [
+    { "id": "gad7_1", "number": 1, "text": "TODO: Kiswahili text for Q1" },
+    { "id": "gad7_2", "number": 2, "text": "TODO: Kiswahili text for Q2" },
+    { "id": "gad7_3", "number": 3, "text": "TODO: Kiswahili text for Q3" },
+    { "id": "gad7_4", "number": 4, "text": "TODO: Kiswahili text for Q4" },
+    { "id": "gad7_5", "number": 5, "text": "TODO: Kiswahili text for Q5" },
+    { "id": "gad7_6", "number": 6, "text": "TODO: Kiswahili text for Q6" },
+    { "id": "gad7_7", "number": 7, "text": "TODO: Kiswahili text for Q7" }
+  ]
+}
